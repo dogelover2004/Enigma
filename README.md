@@ -1,2 +1,1 @@
-# Enigma
-Enigma Server Bot
+Enigma-Bot
